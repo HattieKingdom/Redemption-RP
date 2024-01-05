@@ -13,7 +13,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.5.9"
+        "php": "=8.0.30"
     },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
