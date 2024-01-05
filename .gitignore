@@ -222,7 +222,7 @@ phpdoc/
 
 #RosarioSIS
 meta/
-/config.inc.php
+# /config.inc.php
 assets/FileUploads/
 assets/AssignmentsFiles/
 assets/StudentPhotos/
